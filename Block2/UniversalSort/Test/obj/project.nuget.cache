@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvdAdbqywv5D20++5rvFVWFoQ4bp4ICfOKvhASCqdqFxwmxudm2j2wqaLHw9Eut1knXnq7wtTj5bqvjmOaklZQ==",
+  "success": true,
+  "projectFilePath": "C:\\2term\\MyRepository\\UniversalSort\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
